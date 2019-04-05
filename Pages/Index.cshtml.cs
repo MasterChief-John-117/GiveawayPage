@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace GiveawayPage.Pages
 {
-    public class IndexModel : PageModel
+    public class indexModel : PageModel
     {
         public void OnGet()
         {
